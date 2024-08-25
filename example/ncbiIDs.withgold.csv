@@ -1,0 +1,46 @@
+"","Kingdom","Phylum","Class","Order","Family","Genus","Species","NCBI"
+"FJ981654.1.1204","Bacteria","Firmicutes","Bacilli","Staphylococcales","Staphylococcaceae","Staphylococcus","Staphylococcus(Genus)",1279
+"HM046431.1.1200","Bacteria","Campilobacterota","Campylobacteria","Campylobacterales","Helicobacteraceae","Helicobacter","Helicobacter Helicobacter_pylori",210
+"AJ239312.1.1355","Bacteria","Proteobacteria","Gammaproteobacteria","Burkholderiales","Neisseriaceae","Neisseria","Neisseria(Genus)",482
+"KR029790.1.1200","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Bacillus(Genus)",1386
+"KF571471.1.1207","Bacteria","Firmicutes","Bacilli","Lactobacillales","Listeriaceae","Listeria","Listeria(Genus)",1637
+"LN611354.1.1200","Bacteria","Proteobacteria","Gammaproteobacteria","Pseudomonadales","Moraxellaceae","Acinetobacter","Acinetobacter(Genus)",469
+"AE000513.2467934.2469435","Bacteria","Deinococcota","Deinococci","Deinococcales","Deinococcaceae","Deinococcus","Deinococcus Deinococcus_radiodurans",1299
+"KX984117.1.1262","Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiaceae","Clostridium_sensu_stricto_1","Clostridium_sensu_stricto_1(Genus)",1485
+"EU156766.1.1269","Bacteria","Firmicutes","Bacilli","Lactobacillales","Streptococcaceae","Streptococcus","Streptococcus Streptococcus_mutans",1309
+"KT873246.1.1201","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","Escherichia-Shigella","Escherichia-Shigella(Genus)",1940338
+"KX212247.1.1200","Bacteria","Proteobacteria","Gammaproteobacteria","Pseudomonadales","Pseudomonadaceae","Pseudomonas","Pseudomonas(Genus)",286
+"FJ503081.1.1238","Bacteria","Bacteroidota","Bacteroidia","Bacteroidales","Bacteroidaceae","Bacteroides","Bacteroides(Genus)",816
+"KX792215.1.1201","Bacteria","Firmicutes","Bacilli","Lactobacillales","Streptococcaceae","Streptococcus","Streptococcus Streptococcus_agalactiae",1311
+"LC198619.1.1220","Bacteria","Proteobacteria","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Rhodobacter","Rhodobacter(Genus)",1060
+"EU455199.1.1210","Bacteria","Firmicutes","Bacilli","Lactobacillales","Lactobacillaceae","Lactobacillus","Lactobacillus(Genus)",1578
+"KX792217.1.1200","Bacteria","Firmicutes","Bacilli","Lactobacillales","Enterococcaceae","Enterococcus","Enterococcus(Genus)",1350
+"CVLP01000086.4757.6053","Bacteria","Firmicutes","Bacilli","Lactobacillales","Streptococcaceae","Streptococcus","Streptococcus(Genus)",1301
+"KF084610.1.1355","Bacteria","Actinobacteriota","Actinobacteria","Actinomycetales","Actinomycetaceae","Actinomyces","Actinomyces(Genus)",1654
+"GFIM01005958.9.1236","Bacteria","Actinobacteriota","Actinobacteria","Propionibacteriales","Propionibacteriaceae","Cutibacterium","Cutibacterium(Genus)",1912216
+"DQ801220.1.1342","Bacteria","Bacteroidota","Bacteroidia","Bacteroidales","Bacteroidaceae","Bacteroides","Bacteroides(Genus)",816
+"GQ448970.1.1284","Bacteria","Bacteroidota","Bacteroidia","Bacteroidales","Prevotellaceae","Prevotella","Prevotella(Genus)",838
+"EU765294.1.1363","Bacteria","Bacteroidota","Bacteroidia","Bacteroidales","Bacteroidaceae","Bacteroides","Bacteroides(Genus)",816
+"GASV_1","Bacteria","Proteobacteria","Gammaproteobacteria","Pseudomonadales","Moraxellaceae","Acinetobacter","baumanii",470
+"GASV_2","Bacteria","Actinobacteriota","Actinobacteria","Actinomycetales","Actinomycetaceae","Actinomyces","odontolyticus",1660
+"GASV_3","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","cereus",1396
+"GASV_4","Bacteria","Bacteroidota","Bacteroidia","Bactoroidales","Bacteroidaceae","Bacteroides","vulgatus",821
+"GASV_5","Bacteria","Bacteroidota","Bacteroidia","Bactoroidales","Bacteroidaceae","Bacteroides","vulgatus",821
+"GASV_6","Bacteria","Bacteroidota","Bacteroidia","Bactoroidales","Bacteroidaceae","Bacteroides","vulgatus",821
+"GASV_7","Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiaceae","Clostridium_sensu_stricto_1","beijerinckii",1485
+"GASV_8","Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiaceae","Clostridium_sensu_stricto_1","beijerinckii",1485
+"GASV_9","Bacteria","Deinococcota","Deinococci","Deinococcales","Deinococcaceae","Deinococcus","radiodurans",1299
+"GASV_10","Bacteria","Firmicutes","Bacilli","Lactobacillales","Enterococcaceae","Enterococcus","faecalis",1351
+"GASV_11","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","Escherichia/Shigella","Escherichia_coli",562
+"GASV_12","Bacteria","Campilobacterota","Campylobacteria","Campylobacterales","Helicobacteraceae","Helicobacter","pylori",210
+"GASV_13","Bacteria","Firmicutes","Bacilli","Lactobacillales","Lactobacillaceae","Lactobacillus","gasseri",1596
+"GASV_14","Bacteria","Firmicutes","Bacilli","Lactobacillales","Listeriaceae","Listeria","monocytogenes",1639
+"GASV_15","Bacteria","Proteobacteria","Gammaproteobacteria","Burkholderiales","Neisseriaceae","Neisseria","meningitidis",487
+"GASV_16","Bacteria","Proteobacteria","Gammaproteobacteria","Pseudomonadales","Pseudomonadaceae","Pseudomonas","aeruginosa",287
+"GASV_17","Bacteria","Actinobacteriota","Actinobacteria","Propionibacteriales","Propionibacteriaceae","Cutibacterium","acnes",1747
+"GASV_18","Bacteria","Proteobacteria","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Rhodobacter","sphaeroides",1063
+"GASV_19","Bacteria","Firmicutes","Bacilli","Bacillales","Staphylococcaceae","Staphylococcus","Staphylococcus_Aureus",1280
+"GASV_20","Bacteria","Firmicutes","Bacilli","Bacillales","Staphylococcaceae","Staphylococcus","Staphylococcus_Epidermidis",1282
+"GASV_21","Bacteria","Firmicutes","Bacilli","Lactobacillales","Streptococcaceae","Streptococcus","agalactiae",1311
+"GASV_22","Bacteria","Firmicutes","Bacilli","Lactobacillales","Streptococcaceae","Streptococcus","mutans",1309
+"GASV_23","Bacteria","Firmicutes","Bacilli","Lactobacillales","Streptococcaceae","Streptococcus","pneumonia",1313

@@ -1,0 +1,2 @@
+Prefix plugins/PhyloSeqMerge/example/
+Plugin PhyloSeqMerge inputfile parameters.phyloseq.merge.txt outputfile merged
